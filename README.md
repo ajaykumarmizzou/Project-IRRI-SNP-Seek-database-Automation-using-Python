@@ -1,4 +1,4 @@
-# IRRI-SNP-Seek-database-Automation-using-Python
+# Project_IRRI-SNP-Seek-database-Automation-using-Python
 IRRI SNP-Seek database Automation using Python to download huge haplotypic information 
 
 Description: The project is having four files (two .csv files, one python script file and a chrome version .exe file). This python script is made to ease the task to download hundreds/thousands of haplotypic information from IRRI-SNP-SEEK database for bioinformaticians, plant breeders, rice researchers and enthusiast.
