@@ -10,9 +10,6 @@ Requirement:
 2. Install .exe chrome webdriver (Link: https://chromedriver.chromium.org/downloads) - Download as per your chrome version.
 3. Uninterrupted/high-speed internet connection.
 
-![alt text]([http://url/to/img.png](https://github.com/xenificity/Project-IRRI-SNP-Seek-database-Automation-using-Python/blob/main/automation.png))
-
-
 Link for Demo:
 
 <a href="https://www.youtube.com/watch?v=R43Q8ofMBZI" target="_blank"><img src="http://img.youtube.com/vi/R43Q8ofMBZI/0.jpg" 
